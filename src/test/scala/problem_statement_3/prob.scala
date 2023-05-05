@@ -1,5 +1,5 @@
 package problem_statement_3
-
+// problem statement 3 of assignment
 object prob extends App{
 // normal way to display a list via method of a class
 class temp[A](list:List[A]){
