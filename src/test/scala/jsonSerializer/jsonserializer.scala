@@ -1,6 +1,6 @@
 package jsonSerializer
 
-// Last problem of assignment
+//  problem statement 2 of assignment
 import jsonSerializer.jsonserializer.jsonToString
 
 import java.util.Date
