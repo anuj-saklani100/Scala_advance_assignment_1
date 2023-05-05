@@ -1,5 +1,5 @@
 package problem_statement1
-
+// problem statement 1 of assignment
 object func extends App{
   /* In this problem statement the function is taking an implicit parameter and using it inside it for the calculation*/
 
